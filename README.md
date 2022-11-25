@@ -4,3 +4,5 @@ QA: Simple AI Question Answering with TensorFlow/PyTorch and DistilBERT transfor
 To compiling run:
 
 `python3 qa.py`
+
+https://huggingface.co/distilbert-base-cased-distilled-squad
